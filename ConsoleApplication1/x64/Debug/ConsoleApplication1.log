@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+E:\Desktop\OneDrive_2023-04-28(7)\Projekt programowanie komponentowe (wersja poprawiona)\ConsoleApplication1\ConsoleApplication1.cpp(54,63): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\Desktop\OneDrive_2023-04-28(7)\Projekt programowanie komponentowe (wersja poprawiona)\ConsoleApplication1\ConsoleApplication1.cpp(59,56): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+E:\Desktop\OneDrive_2023-04-28(7)\Projekt programowanie komponentowe (wersja poprawiona)\ConsoleApplication1\ConsoleApplication1.cpp(65,92): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+E:\Desktop\OneDrive_2023-04-28(7)\Projekt programowanie komponentowe (wersja poprawiona)\ConsoleApplication1\ConsoleApplication1.cpp(78,44): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ConsoleApplication1.vcxproj -> E:\Desktop\OneDrive_2023-04-28(7)\Projekt programowanie komponentowe (wersja poprawiona)\x64\Debug\ConsoleApplication1.exe
